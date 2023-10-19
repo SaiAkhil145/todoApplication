@@ -78,12 +78,12 @@ Make sure you have the following prerequisites installed:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone 
+   git clone https://github.com/SaiAkhil145/todoApplication
    
 2. Navigate to the project directory
 
     ```bash
-    cd 
+    cd todoApplication
 
 ## Usage
 
