@@ -1,4 +1,4 @@
-# User Management System
+# Todo Application
 ## Language and Framework
 
 ![Java](https://img.shields.io/badge/Language-Java-green)
