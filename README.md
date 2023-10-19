@@ -87,4 +87,4 @@ Make sure you have the following prerequisites installed:
 
 ## Usage
 
-To use the User Management app, you can make HTTP requests to the provided API endpoints using your favorite API testing tool or framework.
+To use the Todo Application, you can make HTTP requests to the provided API endpoints using your favorite API testing tool or framework.
